@@ -1,0 +1,15 @@
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 2 arrays\loteria\bin\Debug\net6.0\loteria.exe
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 2 arrays\loteria\bin\Debug\net6.0\loteria.deps.json
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 2 arrays\loteria\bin\Debug\net6.0\loteria.runtimeconfig.json
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 2 arrays\loteria\bin\Debug\net6.0\loteria.dll
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 2 arrays\loteria\bin\Debug\net6.0\loteria.pdb
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 2 arrays\loteria\obj\Debug\net6.0\loteria.csproj.AssemblyReference.cache
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 2 arrays\loteria\obj\Debug\net6.0\loteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 2 arrays\loteria\obj\Debug\net6.0\loteria.AssemblyInfoInputs.cache
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 2 arrays\loteria\obj\Debug\net6.0\loteria.AssemblyInfo.cs
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 2 arrays\loteria\obj\Debug\net6.0\loteria.csproj.CoreCompileInputs.cache
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 2 arrays\loteria\obj\Debug\net6.0\loteria.dll
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 2 arrays\loteria\obj\Debug\net6.0\refint\loteria.dll
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 2 arrays\loteria\obj\Debug\net6.0\loteria.pdb
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 2 arrays\loteria\obj\Debug\net6.0\loteria.genruntimeconfig.cache
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 2 arrays\loteria\obj\Debug\net6.0\ref\loteria.dll
